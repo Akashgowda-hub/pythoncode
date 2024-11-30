@@ -1,5 +1,5 @@
 # Prompting the user for input
-age_input = input("Enter your age: $age_input ")
+age_input = input("Enter your age: age_input ")
 
 # Converting the input to an integer
 age = int(age_input)
